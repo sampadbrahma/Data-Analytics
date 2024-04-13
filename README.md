@@ -1,2 +1,1 @@
-# TechnoHacks
-TechnoHacks Data Analytics Internship Project
+Data Analytics Internship Project
